@@ -1,3 +1,4 @@
+
 ```dataview
 TABLE
 	journal-date AS "Journal Date",
